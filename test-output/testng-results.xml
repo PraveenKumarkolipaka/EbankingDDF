@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-10T17:09:39 IST" name="Default suite" finished-at="2023-06-10T17:09:41 IST" duration-ms="1758">
+    <groups>
+    </groups>
+    <test started-at="2023-06-10T17:09:39 IST" name="Default test" finished-at="2023-06-10T17:09:41 IST" duration-ms="1758">
+      <class name="com.ebanking.master.CreatingExcelSheet">
+        <test-method signature="testDataExport()[pri:0, instance:com.ebanking.master.CreatingExcelSheet@1e6454ec]" started-at="2023-06-10T17:09:40 IST" name="testDataExport" finished-at="2023-06-10T17:09:41 IST" duration-ms="1696" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDataExport -->
+      </class> <!-- com.ebanking.master.CreatingExcelSheet -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
